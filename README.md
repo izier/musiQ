@@ -1,8 +1,8 @@
 # MusiQ - flutter itunes search
 ---
-![1](https://github.com/izier/musiQ/screenshots/1)
-![1](https://github.com/izier/musiQ/screenshots/2)
-![1](https://github.com/izier/musiQ/screenshots/3)
+![1](https://github.com/izier/musiQ/screenshots/1.jpeg)
+![1](https://github.com/izier/musiQ/screenshots/2.jpeg)
+![1](https://github.com/izier/musiQ/screenshots/3.jpeg)
 MusiQ is a simple implementation of iTunes search API using Flutter. It uses Flutter BLoC for state management and implementing clean architecture. For now, the app tested using Edge browser, but still can be deployed for any Android phones.
 
 ## Features
