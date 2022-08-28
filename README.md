@@ -1,10 +1,12 @@
 # MusiQ - flutter itunes search
----
-<img src='https://github.com/izier/musiQ/blob/main/screenshots/1.jpeg' width='240'>
-<img src='https://github.com/izier/musiQ/blob/main/screenshots/2.jpeg' width='240'>
-<img src='https://github.com/izier/musiQ/blob/main/screenshots/3.jpeg' width='240'>
 
-MusiQ is a simple implementation of iTunes search API using Flutter. It uses Flutter BLoC for state management and implementing clean architecture. For now, the app tested using Edge browser, but still can be deployed for any Android phones.
+<div align='center'>
+   <img src='https://github.com/izier/musiQ/blob/main/screenshots/1.jpeg' width='240'>
+   <img src='https://github.com/izier/musiQ/blob/main/screenshots/2.jpeg' width='240'>
+   <img src='https://github.com/izier/musiQ/blob/main/screenshots/3.jpeg' width='240'>
+</div>
+
+MusiQ is a simple implementation of [iTunes search API] using Flutter. It uses Flutter BLoC for state management and implementing clean architecture. For now, the app tested using Edge browser, but still can be deployed for any Android phones.
 
 ## Features
 
@@ -23,8 +25,8 @@ MusiQ uses a number of libraries to work properly:
 - [equatable] - simplify equality comparisons
 - [dartz] - providing functional programming
 - [cached_network_image] - caching loaded image
-- [rxdart] - providing asynchronous programming
-- [get_it] - providing easy service
+- [rxdart] - providing implementation of asynchronous programming
+- [get_it] - providing easy service locator
 
 ## Installation
 
@@ -43,4 +45,5 @@ Install the dependencies and test the app using Edge or Chrome with Android Stud
    [dartz]: <https://pub.dev/packages/dartz>
    [cached_network_image]: <https://pub.dev/packages/cached_network_image>
    [rxdart]: <https://pub.dev/packages/rxdart>
+   [iTunes search API]: <https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1>
    
