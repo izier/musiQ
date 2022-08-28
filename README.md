@@ -1,5 +1,6 @@
 # MusiQ - flutter itunes search
 ---
+<img src='https://github.com/izier/musiQ/blob/main/screenshots/1.jpeg' width='48'>
 ![1](https://github.com/izier/musiQ/blob/main/screenshots/1.jpeg)
 ![1](https://github.com/izier/musiQ/blob/main/screenshots/2.jpeg)
 ![1](https://github.com/izier/musiQ/blob/main/screenshots/3.jpeg)
