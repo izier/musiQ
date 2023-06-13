@@ -30,10 +30,34 @@ MusiQ uses a number of libraries to work properly:
 
 ## Installation
 
-MusiQ requires Flutter 3 to be able to run
+To run the musiQ app locally, ensure that you have Flutter SDK installed on your system. Then, follow these steps:
 
-Install the dependencies and test the app using Edge or Chrome with Android Studio.
+1. Clone the repository:
 
+```bash
+git clone https://github.com/izier/musiQ.git
+```
+2. Navigate to the project directory:
+
+```bash
+cd musiQ
+```
+3. Fetch the required dependencies:
+
+```bash
+flutter pub get
+```
+4. Build and run the app:
+
+```bash
+flutter run
+```
+
+## Contributing
+
+Contributions to musiQ are always welcome! If you have any bug reports, feature requests, or suggestions, please open an issue on the GitHub repository. If you would like to contribute code, you can fork the repository and create a pull request with your changes.
+
+Please ensure that your code adheres to the existing coding style and that you have tested your changes thoroughly before submitting a pull request.
 
 [//]: # 
 
